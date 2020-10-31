@@ -1,0 +1,1 @@
+SELECT @@version --size kullandýðýnýz database server ‘ýn sürümünü döndürür

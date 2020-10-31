@@ -1,0 +1,2 @@
+SELECT @@SERVERNAME AS SqlServerInstance
+

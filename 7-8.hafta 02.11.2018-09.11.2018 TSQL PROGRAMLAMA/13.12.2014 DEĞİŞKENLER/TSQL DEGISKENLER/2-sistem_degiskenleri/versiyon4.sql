@@ -1,0 +1,1 @@
+Execute master..xp_msver WindowsVersion,Language, ProcessorCount

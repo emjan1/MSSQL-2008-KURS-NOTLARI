@@ -1,0 +1,1 @@
+CREATE TYPE [dbo].[soyisim] FROM [varchar](25) NOT NULL

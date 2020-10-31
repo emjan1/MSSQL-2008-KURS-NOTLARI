@@ -1,0 +1,8 @@
+ortalamalarýna göre notlarýný veren programý yapýnýz.
+
+85-100		5
+70-84		4	
+
+
+
+gibi.....

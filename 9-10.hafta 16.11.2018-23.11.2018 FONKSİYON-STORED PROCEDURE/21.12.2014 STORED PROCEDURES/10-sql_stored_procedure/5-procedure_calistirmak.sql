@@ -1,0 +1,3 @@
+
+--exec prosedurismi
+exec OgrenciListele

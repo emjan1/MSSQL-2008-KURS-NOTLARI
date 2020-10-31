@@ -1,0 +1,1 @@
+farklı serverlardan veri çekmek

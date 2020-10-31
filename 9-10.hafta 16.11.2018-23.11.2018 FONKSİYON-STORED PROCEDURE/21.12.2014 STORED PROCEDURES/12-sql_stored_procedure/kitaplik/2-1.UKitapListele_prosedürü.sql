@@ -1,0 +1,9 @@
+
+CREATE PROCEDURE UKitapListele
+AS	
+BEGIN
+	SET NOCOUNT ON;
+
+    	SELECT * FROM Kitap 
+END
+GO
